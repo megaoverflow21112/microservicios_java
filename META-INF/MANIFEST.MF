@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: microservicio
+Bundle-SymbolicName: microservicio
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: microservicio.jar,
+ microservicio/.mvn/wrapper/maven-wrapper.jar
+Export-Package: com.example.microservicio,
+ org.apache.maven.wrapper,
+ org.apache.maven.wrapper.cli
